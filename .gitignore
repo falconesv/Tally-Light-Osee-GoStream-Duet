@@ -1,0 +1,10 @@
+.DS_Store
+*.bak
+*.tmp
+*.swp
+.vscode/
+.idea/
+*.ino.*
+*.elf
+*.bin
+*.hex
